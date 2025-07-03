@@ -3,7 +3,7 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 import path from "path";
 
-const BOT_TOKEN = "TELEGRAM_BOT_TOKENINIZI_BURAYA_YAZIN";
+const BOT_TOKEN = "7337307259:AAFizehoZ-7AnWpYnnnLXvOHBs6eQcp4Qvo";
 const bot = new Telegraf(BOT_TOKEN);
 
 bot.use(session());
